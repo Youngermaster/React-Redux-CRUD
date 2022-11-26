@@ -1,8 +1,12 @@
-# React Redux Toolkit CRUD (Simple)
+# React + Redux CRUD
 
 This is a simple Web application CRUD (Create, Read, Update, Delete) using React and Redux Toolkit.
 
-## Ack
+## Acknowledgement
+
+I used this [Fazt's video](https://youtu.be/w2rAP7d6ndg) as a base to test out
+how to create a simple CRUD using React and Redux.
+
 ## More Info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
